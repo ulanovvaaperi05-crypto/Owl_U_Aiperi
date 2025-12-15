@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Owl_U_Aiperi</string>
+    <string name="log_in">LOG IN</string>
+    <string name="trivia">Trivia</string>
+    <string name="log_in_with_facebook">Log in with Facebook</string>
+    <string name="or">OR</string>
+    <string name="up_with_email">Up with Email</string>
+    <string name="game_now">GAME NOW</string>
+    <string name="register">REGISTER</string>
+    <string name="triviaaa">Trivia</string>
+</resources>
