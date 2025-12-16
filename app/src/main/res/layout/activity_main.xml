@@ -11,14 +11,14 @@
     <ImageView
         android:id="@+id/topTriangle"
         android:layout_width="1000dp"
-        android:layout_height="400dp"
+        android:layout_height="1150dp"
         android:background="@drawable/img_1"
-        tools:layout_editor_absoluteX="-295dp"
-        tools:layout_editor_absoluteY="-43dp" />
+
+        />
     <ImageView
         android:id="@+id/str"
-        android:layout_width="40sp"
         android:layout_height="45sp"
+        android:layout_width="0dp"
         android:src="@drawable/strelka_2"
         app:layout_constraintTop_toBottomOf="@+id/title"
         app:layout_constraintStart_toStartOf="parent"
@@ -100,7 +100,7 @@
         android:layout_marginTop="25sp"
         />
     <Button
-        android:id="@+id/btnEmail"
+        android:id="@+id/btnGame"
         android:layout_width="0dp"
         android:layout_height="50dp"
         android:text="@string/game_now"
